@@ -15,6 +15,9 @@ git clone https://github.com/mizu-pras/laravel-react.git
 cd laravel-react
 ```
 ```
+cp .env.example .env
+```
+```
 composer install
 ```
 ```
