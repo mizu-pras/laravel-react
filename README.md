@@ -10,11 +10,14 @@
 
 ```
 git clone https://github.com/mizu-pras/laravel-react.git
-
+```
+```
 cd laravel-react
-
+```
+```
 composer install
-
+```
+```
 npm install
 ```
 
@@ -28,7 +31,8 @@ npm start
 
 ```
 npm run build
-
+```
+```
 php artisan serve
 ```
 
