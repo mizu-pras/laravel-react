@@ -6,7 +6,7 @@
 
 - TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
 
-###### How To Run
+#### How To Run
 
 ```
 git clone https://github.com/mizu-pras/laravel-react.git
@@ -14,4 +14,18 @@ git clone https://github.com/mizu-pras/laravel-react.git
 composer install
 
 npm install
+```
+
+###### dev
+
+```
+npm start
+```
+
+###### prod
+
+```
+npm run build
+
+php artisan serve
 ```
