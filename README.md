@@ -10,6 +10,8 @@
 
 ```
 git clone https://github.com/mizu-pras/laravel-react.git
+
 composer install
+
 npm install
 ```
